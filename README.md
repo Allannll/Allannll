@@ -1,13 +1,11 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/allannll/allannll/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> My proficiency lies in several programming languages, including C++, C# and Python, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. <br> <strong>University student at the Faculty of Technology (FATEC) - <strong>Studying systems analysis and development (2/6).
+<p align="center">I ❤️ solving great challenges using tech. <br><br> My proficiency lies in several programming languages, including C++, C# and Python, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. <br> <strong>University student at the Faculty of Technology (FATEC) - <strong>Studying systems analysis and development (2/6).
 
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-allan-s-projects-25537d72.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-7cx3-allan-s-projects-25537d72.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
