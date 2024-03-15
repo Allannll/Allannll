@@ -1,11 +1,11 @@
-
-
+# <p align="center">Hello, World!
+---
 <p align="center">I ❤️ solving great challenges using tech. <br><br> My proficiency lies in several programming languages, including C++, C# and Python, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. <br> <strong>University student at the Faculty of Technology (FATEC) - <strong>Studying systems analysis and development (2/6).
 
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-7cx3-allan-s-projects-25537d72.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=allannll&theme=jolly&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-7cx3-allan-s-projects-25537d72.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=jolly&layout=compact" />
  </div>
  
  &nbsp;
