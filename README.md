@@ -1,6 +1,6 @@
 # <p align="center">Hello, World!
 ---
-<p align="center">I ❤️ solving great challenges using tech. <br><br> My proficiency lies in several programming languages, including C++, C# and Python, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. <br> <strong>University student at the Faculty of Technology (FATEC) - <strong>Studying systems analysis and development (2/6).
+<p align="center">I ❤️ solving great challenges using tech. <br><br> My proficiency lies in several programming languages, including C++, C# and Python, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. <br> <strong>University student at the Faculty of Technology (FATEC) - <strong>Studying systems analysis and development (3/6).
 
 
 <div  align="center" style="margin-bottom:100px">
