@@ -32,7 +32,8 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 #### Database:
-https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge
+
+![MySQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)
 
 #### Workstation Tools:
 
